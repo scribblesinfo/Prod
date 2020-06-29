@@ -1,16 +1,102 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://www.scribblesinfo.com</loc>
-</url>
-<url>
-<loc>https://www.scribblesinfo.com/facts/50-things-that-not-allowed-to-do-at-hogwarts.html</loc>
-</url>
-<url>
-<loc>https://www.scribblesinfo.com/mod-apk.html</loc>
-</url>
- <url>
-<loc>https://www.scribblesinfo.com/series/Top-5-detective-series-with-women-lead.html</loc>
-</url>
-</urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
+
+<url>
+  <loc>https://www.scribblesinfo.com/</loc>
+  <lastmod>2020-06-29T13:53:05+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://www.scribblesinfo.com/mod-apk.html</loc>
+  <lastmod>2020-06-29T13:53:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.scribblesinfo.com/about.html</loc>
+  <lastmod>2020-06-29T13:53:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.scribblesinfo.com/contact.html</loc>
+  <lastmod>2020-06-29T13:53:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.scribblesinfo.com/mod-application/netflix-mod-application.html</loc>
+  <lastmod>2020-06-29T13:53:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.scribblesinfo.com/series/Top-5-detective-series-with-women-lead.html</loc>
+  <lastmod>2020-06-29T13:53:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.scribblesinfo.com/facts/facts-of-sumo-wrestler.html</loc>
+  <lastmod>2020-06-29T13:53:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.scribblesinfo.com/mod-application/Voot-Mod-apk-download.html</loc>
+  <lastmod>2020-06-29T13:53:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.scribblesinfo.com/mod-application/pics-art-mod-apk.html</loc>
+  <lastmod>2020-06-29T13:53:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.scribblesinfo.com/series/top-5-comedy-series.html</loc>
+  <lastmod>2020-06-29T13:53:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.scribblesinfo.com/technical-tips/the-11-most-important-interview-tips.html</loc>
+  <lastmod>2020-06-29T13:53:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.scribblesinfo.com/technical-tips/Creating-user-in-oracle-database.html</loc>
+  <lastmod>2020-06-29T13:53:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.scribblesinfo.com/facts/bruce-lee-biography.html</loc>
+  <lastmod>2020-06-29T13:53:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.scribblesinfo.com/technical-tips/bitcoin.html</loc>
+  <lastmod>2020-06-29T13:53:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.scribblesinfo.com/mod-application/Brain-out-mod-apk.html</loc>
+  <lastmod>2020-06-29T13:53:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.scribblesinfo.com/facts/Jonney-depp-biography.html</loc>
+  <lastmod>2020-06-29T13:53:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.scribblesinfo.com/facts/50-things-that-not-allowed-to-do-at-hogwarts.html</loc>
+  <lastmod>2020-06-29T13:53:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://www.scribblesinfo.com/mod-application/kinemaster-mod-apk.html</loc>
+  <lastmod>2020-06-29T13:53:05+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
+</urlset>
