@@ -29,7 +29,7 @@ package = "@netlify/plugin-sitemap"
 
   [plugins.inputs]
     # Where should data files reside
-    dataDir = "site/_data"
+    dataDir = "/feed.json"
 
     # All the feeds we wish to gather for use in the build
 
