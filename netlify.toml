@@ -13,7 +13,7 @@ package = "@netlify/plugin-sitemap"
 	[plugins.inputs]
 
 	# The base url of your site (optional, default = main URL set in Netlify)
-	baseUrl = "https://scribblesinfo.com"
+	baseUrl = "https://www.scribblesinfo.com"
 
 	# Path to the sitemap URL (optional, default = /sitemap.xml)
 	sitemapPath = "/sitemap.xml"
@@ -35,7 +35,7 @@ package = "@netlify/plugin-sitemap"
 
     [[plugins.inputs.feeds]]
       name = "Scribblesinfo"
-      url = "https://scribblesinfo/feed.json"
+      url = "https://www.scribblesinfo/feed.json"
       ttl = 3600
     [[plugins.inputs.feeds]]
       name = "Scribbesinfo"
