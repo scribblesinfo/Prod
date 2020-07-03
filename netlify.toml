@@ -23,3 +23,21 @@ package = "@netlify/plugin-sitemap"
 		"google",
 		"bing"
 	]
+	
+	[[plugins]]
+  package = "netlify-plugin-fetch-feeds"
+
+  [plugins.inputs]
+    # Where should data files reside
+    dataDir = "site/"
+
+    # All the feeds we wish to gather for use in the build
+
+    [[plugins.inputs.feeds]]
+      name = "Scribblesinfo"
+      url = "https://scribblesinfo/feed.json"
+      ttl = 3600
+    [[plugins.inputs.feeds]]
+      name = "Scribbesinfo"
+      url = "https://www.scribblesinfo.com/facts/index.xml"
+      ttl = 86400
